@@ -1,0 +1,4 @@
+# ChromaDB files
+chroma_db_/
+**/chroma_db_/
+*.sqlite3
